@@ -17,3 +17,8 @@ gdzie domownicy mogą wspólnie gromadzić dane o zakupach. Użytkownicy mogą r
 na konkretne produkty oraz otrzymywać spersonalizowane powiadomienia o promocjach. 
 Dzięki zaawansowanym narzędziom do analizy budżetu domowego, aplikacja pomaga użytkownikom lepiej 
 zarządzać swoimi finansami, sugerując optymalne strategie oszczędzania oraz rekomendując tańsze lub bardziej ekonomiczne alternatywy zakupowe.
+
+
+
+https://github.com/lukaszlap/paragony/assets/126724133/15f25a95-c652-48ee-8722-bf021f370a15
+
